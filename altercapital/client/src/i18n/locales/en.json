@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "about": "About",
+    "expertise": "Expertise",
+    "howWeWork": "How We Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Strategic growth across Latin America.",
+    "subtitle": "Built with experience. Executed with precision.",
+    "description": "Alter Capital supports technology companies and global organizations expanding into Latin America through strategic execution, deep local insight, and high-level access.",
+    "cta": "Get in touch",
+    "location": "Based in São Paulo. Active across Latin America."
+  },
+  "about": {
+    "label": "OUR PHILOSOPHY",
+    "title": "Experience first. Growth follows.",
+    "p1": "Alter Capital is a strategic advisory and investment firm focused on enabling efficient growth across Latin America.",
+    "p2": "We work alongside founders, executives, and global decision-makers to help companies enter new markets, scale operations, and structure cross-border activities with clarity and confidence.",
+    "p3": "Our approach combines senior-level experience, deep regional knowledge, and an extensive high-level network, allowing our clients to grow without unnecessary complexity, cost, or exposure.",
+    "quote": "Growth is not about moving fast, it is about moving right."
+  },
+  "expertise": {
+    "label": "AREAS OF EXPERTISE",
+    "title": "How we create value",
+    "tradeFinance": {
+      "title": "Trade Finance, Commodities & Energy",
+      "focus": "PRIMARY FOCUS",
+      "description": "Alter Capital provides specialized advisory on trade finance structures, commodity trading, and energy sector operations across Latin America.",
+      "items": [
+        "Trade finance structuring and execution",
+        "Commodities and energy market advisory",
+        "Cross-border commodity operations",
+        "Regulatory compliance and risk management"
+      ]
+    },
+    "expansion": {
+      "title": "Business Expansion & Market Development",
+      "focus": "HIGHLY CONSULTIVE",
+      "description": "We support technology companies, startups, and international organizations expanding into Latin America, particularly Brazil, through hands-on strategic execution.",
+      "items": [
+        "Market entry strategy and execution",
+        "Business development and local partnerships",
+        "High-level introductions across industries",
+        "Market validation without heavy upfront investment"
+      ]
+    },
+    "investments": {
+      "title": "Strategic Investments",
+      "focus": "COMPLEMENTARY",
+      "description": "Alter Capital invests proprietary capital alongside founders and early-stage companies, primarily at seed, angel, and Series A/B stages.",
+      "items": [
+        "Seed and angel investments",
+        "Series A and B participation",
+        "Strategic guidance and operational support",
+        "Long-term value creation"
+      ]
+    }
+  },
+  "howWeWork": {
+    "label": "APPROACH",
+    "title": "How we work",
+    "flexible": {
+      "title": "Flexible by design",
+      "p1": "Our model is flexible by design. Engagements may be project-based or ongoing, structured or highly adaptive, depending entirely on client needs.",
+      "p2": "We prioritize proximity, direct communication, and alignment, operating as trusted partners rather than external advisors."
+    },
+    "custom": {
+      "title": "Custom solutions",
+      "p1": "Every solution is custom-built. There are no templates, only strategy, execution, and results.",
+      "p2": "We believe expansion should be intentional, structured, and adaptable. Our team combines years of experience across multiple markets with an extensive, high-level network spanning Latin America and international markets."
+    },
+    "experience": {
+      "title": "Experience powered by access",
+      "p1": "Alter Capital is built on years of experience across multiple markets and industries. Our strength lies in an extensive, high-level network enabling efficient access to decision-makers, partners, and strategic opportunities.",
+      "p2": "We activate this network selectively, always aligned with our clients' objectives and operational realities."
+    }
+  },
+  "contact": {
+    "title": "Let's talk",
+    "description": "We're interested in learning about your growth ambitions and how we can help.",
+    "cta": "Get in touch"
+  },
+  "footer": {
+    "tagline": "Strategic Growth & Cross-Border Advisory",
+    "location": "Location",
+    "locationText": "São Paulo, Brazil",
+    "locationActive": "Active across Latin America",
+    "connect": "Connect",
+    "copyright": "© 2026 Alter Capital. All rights reserved.",
+    "crafted": "Crafted with intention and precision."
+  }
+}

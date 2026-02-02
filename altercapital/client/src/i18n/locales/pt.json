@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "expertise": "Expertise",
+    "howWeWork": "Como Trabalhamos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Crescimento estratégico na América Latina.",
+    "subtitle": "Construído com experiência. Executado com precisão.",
+    "description": "Alter Capital apoia empresas de tecnologia e organizações globais em expansão na América Latina através de execução estratégica, conhecimento local profundo e acesso de alto nível.",
+    "cta": "Entre em contato",
+    "location": "Baseado em São Paulo. Ativo em toda a América Latina."
+  },
+  "about": {
+    "label": "NOSSA FILOSOFIA",
+    "title": "Experiência em primeiro lugar. O crescimento segue.",
+    "p1": "Alter Capital é uma firma de consultoria estratégica e investimento focada em permitir crescimento eficiente na América Latina.",
+    "p2": "Trabalhamos ao lado de fundadores, executivos e tomadores de decisão globais para ajudar empresas a entrar em novos mercados, escalar operações e estruturar atividades cross-border com clareza e confiança.",
+    "p3": "Nossa abordagem combina experiência sênior, conhecimento regional profundo e uma extensa rede de alto nível, permitindo que nossos clientes cresçam sem complexidade, custo ou exposição desnecessários.",
+    "quote": "Crescimento não é sobre se mover rápido, é sobre se mover certo."
+  },
+  "expertise": {
+    "label": "ÁREAS DE EXPERTISE",
+    "title": "Como criamos valor",
+    "tradeFinance": {
+      "title": "Trade Finance, Commodities & Energia",
+      "focus": "FOCO PRINCIPAL",
+      "description": "Alter Capital fornece consultoria especializada em estruturas de trade finance, negociação de commodities e operações do setor de energia na América Latina.",
+      "items": [
+        "Estruturação e execução de trade finance",
+        "Consultoria em mercado de commodities e energia",
+        "Operações cross-border de commodities",
+        "Conformidade regulatória e gestão de risco"
+      ]
+    },
+    "expansion": {
+      "title": "Expansão de Negócios & Desenvolvimento de Mercado",
+      "focus": "ALTAMENTE CONSULTIVO",
+      "description": "Apoiamos empresas de tecnologia, startups e organizações internacionais em expansão na América Latina, particularmente Brasil, através de execução estratégica prática.",
+      "items": [
+        "Estratégia e execução de entrada em mercado",
+        "Desenvolvimento de negócios e parcerias locais",
+        "Introduções de alto nível entre indústrias",
+        "Validação de mercado sem investimento inicial pesado"
+      ]
+    },
+    "investments": {
+      "title": "Investimentos Estratégicos",
+      "focus": "COMPLEMENTAR",
+      "description": "Alter Capital investe capital próprio ao lado de fundadores e empresas em estágio inicial, principalmente em estágios seed, angel e Series A/B.",
+      "items": [
+        "Investimentos seed e angel",
+        "Participação em Series A e B",
+        "Orientação estratégica e suporte operacional",
+        "Criação de valor de longo prazo"
+      ]
+    }
+  },
+  "howWeWork": {
+    "label": "ABORDAGEM",
+    "title": "Como trabalhamos",
+    "flexible": {
+      "title": "Flexível por design",
+      "p1": "Nosso modelo é flexível por design. Engajamentos podem ser baseados em projetos ou contínuos, estruturados ou altamente adaptativos, dependendo inteiramente das necessidades do cliente.",
+      "p2": "Priorizamos proximidade, comunicação direta e alinhamento, operando como parceiros confiáveis em vez de consultores externos."
+    },
+    "custom": {
+      "title": "Soluções customizadas",
+      "p1": "Cada solução é construída sob medida. Não há templates, apenas estratégia, execução e resultados.",
+      "p2": "Acreditamos que expansão deve ser intencional, estruturada e adaptável. Nosso time combina anos de experiência em múltiplos mercados com uma extensa rede de alto nível abrangendo América Latina e mercados internacionais."
+    },
+    "experience": {
+      "title": "Experiência potencializada por acesso",
+      "p1": "Alter Capital é construída sobre anos de experiência em múltiplos mercados e indústrias. Nossa força reside em uma extensa rede de alto nível que permite acesso eficiente a tomadores de decisão, parceiros e oportunidades estratégicas.",
+      "p2": "Ativamos essa rede seletivamente, sempre alinhados com os objetivos e realidades operacionais de nossos clientes."
+    }
+  },
+  "contact": {
+    "title": "Vamos conversar",
+    "description": "Estamos interessados em conhecer suas ambições de crescimento e como podemos ajudar.",
+    "cta": "Entre em contato"
+  },
+  "footer": {
+    "tagline": "Crescimento Estratégico & Consultoria Cross-Border",
+    "location": "Localização",
+    "locationText": "São Paulo, Brasil",
+    "locationActive": "Ativo em toda a América Latina",
+    "connect": "Conecte",
+    "copyright": "© 2026 Alter Capital. Todos os direitos reservados.",
+    "crafted": "Crafted com intenção e precisão."
+  }
+}
